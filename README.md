@@ -43,6 +43,7 @@
 
 | Chapter | Topic | Core Concepts | Status | Links |
 | :---: | :--- | :--- | :---: | :---: |
+| **00** | **랭체인을 위한 기초 AI 지식** | ??? | 🟡 진행중 | [Code](./ch00) |
 | **01** | **Introduction to LLM & LangChain** | LangChain 철학, LLM vs ChatModel | 🟢 완료 | [Code](./ch01) |
 | **02** | **Prompt Engineering** | PromptTemplate, Few-Shot, OutputParser | 🟢 완료 | [Code](./ch02) |
 | **03** | **LCEL & Chains** | Runnable 인터페이스, 파이프라인 병렬 처리 | 🟡 진행중 | [Code](./ch03) |
