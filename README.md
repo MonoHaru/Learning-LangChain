@@ -9,4 +9,9 @@
 ![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge)
 
 
-## Table of Contents
+## 📖 Table of Contents
+1. [About The Project](#-about-the-project)
+2. [Tech Stack](#-tech-stack)
+3. [Study Progress](#-study-progress)
+4. [Key Insights (TIL)](#-key-insights-til)
+5. [Getting Started](#-getting-started)
